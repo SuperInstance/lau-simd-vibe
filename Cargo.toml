@@ -1,0 +1,6 @@
+[package]
+name = "lau-simd-vibe"
+version = "0.1.0"
+edition = "2021"
+description = "Low-level vibe field computation engine using SIMD-style packed operations"
+license = "MIT"
